@@ -2,6 +2,8 @@
 //添加一行注释给柏兰，看行不行
 //柏兰你好
 //噢噢噢噢
+
+//hahahhahhahah
 #include "stdafx.h"
 
 void insert_sort(int* p,int n)
